@@ -1,5 +1,5 @@
 
-# Build and Install open62541 (OPC UA in C) Server on Linux 
+# Build and Install open62541 (OPC UA in C) Server on Linux! 
 
 
 **open62541** is an open-source implementation of OPC UA (Open Platform Communications Unified Architecture) protocol stack. OPC UA is a machine-to-machine communication protocol for industrial automation developed by the OPC Foundation. It provides a standardized, platform-independent communication for interacting with industrial equipment and systems
